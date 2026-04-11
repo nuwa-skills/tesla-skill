@@ -4,10 +4,9 @@
 
 > "当下是他们的，但未来——我为之工作的未来——是我的。" -- 尼古拉·特斯拉
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Claude Code Skill](https://img.shields.io/badge/claude--code-skill-orange.svg)](https://github.com/Panmax/tesla-skill)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/tesla-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将特斯拉的想象力驱动方法、独立思考精神和超前于时代的发明思维蒸馏为 Claude Code Skill，让 AI 像特斯拉一样以想象力构建未来。**
 
 </div>
@@ -96,16 +95,12 @@ tesla-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
 
-Made with electric imagination by [Panmax](https://github.com/Panmax)
+MIT License
 
-"一个人的大脑只是宇宙这个更大实体中的一个接收器。"
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
