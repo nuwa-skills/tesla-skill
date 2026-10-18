@@ -5,9 +5,9 @@
 > "当下是他们的，但未来——我为之工作的未来——是我的。" -- 尼古拉·特斯拉
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将特斯拉的想象力驱动方法、独立思考精神和超前于时代的发明思维蒸馏为 Claude Code Skill，让 AI 像特斯拉一样以想象力构建未来。**
+**将特斯拉的想象力驱动方法、独立思考精神和超前于时代的发明思维蒸馏为 Agent Skill（Claude Code 等客户端可用），让 AI 像特斯拉一样以想象力构建未来。**
 
 </div>
 
